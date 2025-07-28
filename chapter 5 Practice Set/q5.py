@@ -1,0 +1,6 @@
+# 5. s = {} 
+# What is the type of 's'? 
+
+# Answer: Dictionary
+s = {}
+print("Type of s:", type(s))
